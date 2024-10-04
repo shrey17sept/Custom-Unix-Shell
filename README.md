@@ -48,13 +48,13 @@ This project is a custom-built Unix shell that supports several commonly used Un
 2. Compile the shell:
 
     ```bash
-    gcc -o custom_shell custom_shell.c
+    gcc -o main_shell main_shell.c
     ```
 
 3. Run the shell:
 
     ```bash
-    ./custom_shell
+    ./main_shell
     ```
 
 4. Use the supported commands directly in the shell.
