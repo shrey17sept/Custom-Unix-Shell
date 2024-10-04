@@ -90,7 +90,3 @@ This project is a custom-built Unix shell that supports several commonly used Un
 
 - Add support for piping and redirection.
 - Improve error handling and command parsing.
-
----
-
-This README provides a detailed description of the commands and functionality implemented in your custom shell. You can copy this directly into the `README.md` file of your project repository.
